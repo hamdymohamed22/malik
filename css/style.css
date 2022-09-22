@@ -1428,6 +1428,7 @@ ul {
     font-weight: bold;
     font-size: 40px;
     width: fit-content;
+    text-align: center;
     margin: 0 auto 30px;
     position: relative;
 }
